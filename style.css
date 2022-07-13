@@ -788,12 +788,9 @@ footer .social {
     margin-right: 0;
   }
    
-  .cards {
-    grid-template-columns: 1fr 1fr  1fr;
-  }
-
   .card {
     height: 25rem;
+    width: 20rem;
   }
 
   #services header {
